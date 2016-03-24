@@ -1,4 +1,4 @@
-# PlanYourDay
+# Redux Simple  Boilerplate
 
 Just Do It :)
 
